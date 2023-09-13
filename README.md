@@ -1,6 +1,8 @@
 # MeanderMigration
 Scripts accompanying "The Pace of Global River Meandering Set by Fluvial Sediment Supply "
 
+![Figure2_Method](https://github.com/evan-greenbrg/MeanderMigration/assets/37386365/96913387-db42-4a45-bb4c-3445975aca52)
+
 ## Codes:
 
 **GetWBMdata_new_wbm.py**: 
